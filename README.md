@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Frontend developer</h3>
 
-Take a look at my website to find more! [https://rahmaniali.ir](https://github.com/echotrade-app)
+Take a look at my website to find more! [https://rahmaniali.ir](https://rahmaniali.ir)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmaniali-ir" alt="rahmaniali-ir" /></a> </p>
 
